@@ -1,5 +1,3 @@
----
-
 ## What is Handglove App?
 
 **Handglove App** is a comprehensive healthcare staffing and payroll management platform designed specifically for healthcare facilities to streamline their workforce operations, financial management, and administrative processes. The platform serves as a central hub for managing clinician schedules, payroll processing, vendor management, and automated financial controls.
